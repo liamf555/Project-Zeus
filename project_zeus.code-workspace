@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ardupilot_gym"
+		},
+		{
+			"path": "../../stable_baselines"
+		},
+		{
+			"path": "../gym"
+		},
+		{
+			"path": "../../dreamer/dreamerv3"
+		}
+	],
+	"settings": {}
+}
